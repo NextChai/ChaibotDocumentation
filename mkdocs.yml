@@ -1,0 +1,6 @@
+site_name: Chaibot Docs
+nav:
+  - Home: index.md
+  - Main: home.md
+  - About: about.md
+theme: readthedocs
