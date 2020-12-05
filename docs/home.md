@@ -1,8 +1,8 @@
-# Welcome to Chaibot Documentation
+# Here's the scoop!
 
 Chaibot's commands with how-two's and examples. [https://top.gg/bot/728115804826239017](https://top.gg/bot/728115804826239017).
 
-## Commands
+## Useful Information
     Below are all commands for Chaibot, sorted in custom categories for each set of commands. Using the navigation on the left is a big help, I recommend making use of it.
 
 ### Main Commands
