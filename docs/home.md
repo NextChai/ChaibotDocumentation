@@ -3,14 +3,14 @@
 Chaibot's commands with how-two's and examples. [https://top.gg/bot/728115804826239017](https://top.gg/bot/728115804826239017).
 
 ## Useful Information
-    Below are all commands for Chaibot, sorted in custom categories for each set of commands. Using the navigation on the left is a big help, I recommend making use of it.
+Below are all commands for Chaibot, sorted in custom categories for each set of commands. Using the navigation on the left is a big help, I recommend making use of it.
 
 ### Main Commands
-    The main commands for chaibot: can be used by anyone in the server
+The main commands for chaibot: can be used by anyone in the server
 
-    - If the command description does not have a "Use example", it does not accept any parameters.
+   - If the command description does not have a "Use example", it does not accept any parameters.
     
-    - If no "Use level" is specified, it can be used by anoyone with permission to send messages.
+   - If no "Use level" is specified, it can be used by anoyone with permission to send messages.
 #### Aes
     Raw command: chaiaes
 
