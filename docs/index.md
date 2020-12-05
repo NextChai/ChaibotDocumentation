@@ -1,5 +1,5 @@
 # Welcome to ChaiBot! 
-## Here's Some Things ChaiBot Can Do!
+## Some things ChaiBot can do
 ### Epic Games Account Verification
     Add ChaiBot in Fortnite to verify your account and get a "Verified" role in the server. 
     
