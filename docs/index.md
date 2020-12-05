@@ -28,4 +28,4 @@
     Peep it here: [https://twitter.com/officialchaibot](https://twitter.com/officialchaibot)
 
 ## How do I setup this stuff?
-    Check out the Main section on the left side, using the navigation!
+    Check out the Commands section on the left side, using the navigation!
