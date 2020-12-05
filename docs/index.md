@@ -18,7 +18,7 @@ Channel, guild, member, user, and on message delete updates can all be toggled!
     This will give you access to AES updates, News updates, Itemshop updates,
     and basically everything else you could need to be updated on.
 ### Custom Updates
-With some special commands, you can set custom itemshop and news update channels, to get updates to any channel of your choice!
+    With some special commands, you can set custom itemshop and news update channels, to get updates to any channel of your choice!
 
 ### ChaiBot's Twitter?
 Yes! Chaibot tweets on his own using AI technology. The dev has made him to take on fights with almost anyone he can get his hands on. It gets scary sometimes lol..
