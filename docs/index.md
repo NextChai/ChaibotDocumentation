@@ -25,7 +25,7 @@
     Yes! Chaibot tweets on his own using AI technology. The dev has made him to take
     on fights with almost anyone he can get his hands on. It gets scary sometimes lol..
 
-    Peep it here: [https://twitter.com/officialchaibot](https://twitter.com/officialchaibot)
+   Peep it here: [https://twitter.com/officialchaibot](https://twitter.com/officialchaibot)
 
 ## How do I setup this stuff?
     Check out the Commands section on the left side, using the navigation!
