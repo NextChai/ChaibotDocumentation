@@ -1,16 +1,17 @@
-# Here's the scoop!
+
+# Welcome to Chaibot Documentation
 
 Chaibot's commands with how-two's and examples. [https://top.gg/bot/728115804826239017](https://top.gg/bot/728115804826239017).
 
-## Useful Information
-Below are all commands for Chaibot, sorted in custom categories for each set of commands. Using the navigation on the left is a big help, I recommend making use of it.
+## Commands
+    Below are all commands for Chaibot, sorted in custom categories for each set of commands. Using the navigation on the left is a big help, I recommend making use of it.
 
 ### Main Commands
-The main commands for chaibot: can be used by anyone in the server
+    The main commands for chaibot: can be used by anyone in the server
 
-   - If the command description does not have a "Use example", it does not accept any parameters.
+    - If the command description does not have a "Use example", it does not accept any parameters.
     
-   - If no "Use level" is specified, it can be used by anoyone with permission to send messages.
+    - If no "Use level" is specified, it can be used by anoyone with permission to send messages.
 #### Aes
     Raw command: chaiaes
 
@@ -336,7 +337,10 @@ Reaction roles are another thing in Chaibot that needs to be done correct in ord
             multiple lines, like anything else, because it is in quotes"
         
         Use Level: User must be able to manage channels in order to do this command.
+![Screenshot](img/embed_example.png)
 ### Adding Emojis
+Next, we need to add our emojis to our reaction. We can do it using this:
+    
     chaireactionadd <emoji> <role>
 
         Description - Now that we've created our message, we need to add some emojis to it.
@@ -346,7 +350,9 @@ Reaction roles are another thing in Chaibot that needs to be done correct in ord
             chaireactionadd :thumbsup: @my_role
         
         Use Level: User must be able to manage channels in order to do this command.
+![Screenshot](img/embed_example_2.png)
 ### Removing The Message
+When removing the embed, you can delete your message or just remove the message using this:
     chaireactionroleremove
 
         Description - Don't want your reaction roles to work?
