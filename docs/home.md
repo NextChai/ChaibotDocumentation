@@ -337,7 +337,7 @@ Reaction roles are another thing in Chaibot that needs to be done correct in ord
             multiple lines, like anything else, because it is in quotes"
         
         Use Level: User must be able to manage channels in order to do this command.
-![Screenshot](../img/embed_example.png)
+![Screenshot](./img/embed_example.png)
 ### Adding Emojis
 Next, we need to add our emojis to our reaction. We can do it using this:
     
@@ -350,7 +350,7 @@ Next, we need to add our emojis to our reaction. We can do it using this:
             chaireactionadd :thumbsup: @my_role
         
         Use Level: User must be able to manage channels in order to do this command.
-![Screenshot](../img/embed_example_2.png)
+![Screenshot](./img/embed_example_2.png)
 ### Removing The Message
 When removing the embed, you can delete your message or just remove the message using this:
     chaireactionroleremove
