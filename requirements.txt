@@ -1,2 +1,2 @@
 mkdocs>=1.0
-mkdocs-rtd-dropdown==1.0.2
+mkdocs-gitbook

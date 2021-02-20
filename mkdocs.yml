@@ -3,4 +3,5 @@ nav:
   - Home: index.md
   - Commands: home.md
   - About: about.md
-theme: readthedocs
+theme:
+  name: gitbook
