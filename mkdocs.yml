@@ -1,7 +1,16 @@
 site_name: Chaibot Docs
 nav:
   - Home: index.md
-  - Commands: home.md
-  - About: about.md
+  - How to Use: home.md
+  - Commands: main_commands.md
+  - API: api.md
+  - Fortnite: fortnite.md
+  - Fun: fun.md
+  - Logs: logs.md
+  - Moderation: mod.md
+  - Warnings: warnings.md
+  - Music: music.md
+  - Reaction Roles: reaction_roles.md
+  - About Dev: about.md
 theme:
   name: gitbook
