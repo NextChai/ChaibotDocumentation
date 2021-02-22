@@ -15,16 +15,13 @@ The "How to Use" section.
 
 - Here's some examples of things you will see:
     ```
-    discord.Member: a server membe
+    discord.Member: a server member
+
     discord.Role:  a server role
+
     str: a "string" (aka a text)
+
     int:  a number
     ```
 ## Main Commands:
 Command sections are seperated in cogs. You can do **chaihelp CogName** for more info on a cog. All commands are shown with the **chai** prefix, easily change out this prefix and use your own one.
-
-
-
-
-
-

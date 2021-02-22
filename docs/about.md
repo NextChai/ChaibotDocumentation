@@ -4,4 +4,5 @@ Hi, my name is Chai, Trevor! I am a 16yr old Python bot developer! I mainly code
 ### About Chaibot
 Chaibot was created not mainly to learn, but also because I had noticed there weren't many bots like Chaibot. I feel this project can get very big with enough time and de-bugging lol. I hope you can walk through this journey with me as time moves on. If you find a bug, please report it to [Chaibot's twitter](https://twitter.com/officialchaibot) !
 ### What's to come
-Coming up, I'm still hoping to get more Fortnite client running. This will allow for scrim support across Chai. I'm also planning to get Chai working on a high end VPS, allowing for steady music streaming and faster commands.
+Coming up, I'm still hoping to get more Fortnite clients running. This will allow for scrim support across Chai. I'm also planning to get Chai working on a high end VPS, allowing for steady music streaming and faster commands.
+

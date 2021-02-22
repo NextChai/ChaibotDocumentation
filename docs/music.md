@@ -21,7 +21,7 @@ How to use:
 ```
 chaiplay [song:str]
 ```
-Useage Example:
+Usage Example:
 ```
 chaiplay Sicko Mode
 ```
@@ -59,7 +59,7 @@ How to use:
 ```
 chaiqueue [song:str=None]
 ```
-Useage Example:
+Usage Example:
 ```
 chaiqueue Sicko Mode
 
@@ -81,7 +81,7 @@ How to use:
 ```
 chaivolume [volume:int]
 ```
-Useage Example
+Usage Example
 ```
 chaivolume 1000
 ```
@@ -109,3 +109,4 @@ How to use:
 ```
 chaimusicinfo
 ```
+
