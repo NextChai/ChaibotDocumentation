@@ -1,4 +1,11 @@
 
+---
+title: Chai Discord Bot Documentation
+---
+---
+description: The Chai Documentation gives you access to the ins and outs of Chai's commands, allowing you to get the most use out of the bot. See examples, ways to contact the dev team, and useful tips and commands for you to try out.
+---
+
 # Welcome to Chaibot Documentation
 
 Chaibot's commands with how-two's and examples. [https://top.gg/bot/728115804826239017](https://top.gg/bot/728115804826239017).
