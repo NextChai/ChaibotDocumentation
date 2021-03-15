@@ -6,6 +6,10 @@
 
 We've been working on this for a while, but yes, it's true! You can use a command to claim your daily Save the World reward! Head on over to the **Authentication** to learn a bit more.
 
+Commands to **get your vbucks amount**, **view your gift history**, and view your **current and past arena point counts** are all possible! 
+
+This is a big step, and is something we're looking into developing much more in the next couple months.
+
 ### **Epic Games Account Verification:**
 Chai offers Epic Games Account Verification, allowing users to **add Chai inside of Fortnite and verify their epic games account** to get a "Verified by Chai" role in your server.
  
