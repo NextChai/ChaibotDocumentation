@@ -1,26 +1,29 @@
 # Welcome to ChaiBot! 
-## Fortnite:
-### Epic Games Account Verification:
+
+
+### **Epic Games Authentication**
+**Have Chai claim your Save the World daily reward automatically!**
+
+We've been working on this for a while, but yes, it's true! You can use a command to claim your daily Save the World reward! Head on over to the **Authentication** to learn a bit more.
+
+### **Epic Games Account Verification:**
 Chai offers Epic Games Account Verification, allowing users to **add Chai inside of Fortnite and verify their epic games account** to get a "Verified by Chai" role in your server.
  
-Chai Account Verification also allows users to get each others stats' and connect to each other very easy and fast. Commands like **prcheck** and **getstat** are useable by all members that have been verified. More information is available under the command section.
+Chai Account Verification also allows users to get each others stats' and connect to each other very easy and fast. Commands like **prcheck** and **getstat** are available by all members that have been verified. More information is available under the **Fortnite** section.
  
-### Customizable Fortnite Updates:
-Chai offers a completely custom fortnite update system, allowing you to choose between item shops, news updates, leaked cosmetics, aes updates, server stats, and more.
- 
-The command **chaisetup** can be used to setup your server for these custom updates. You will get to choose which updates you want. Other commands like **chaisetnews** and **chaisetitemshop** can also be used to set custom news and itemshop channels.
+### **Customizable Fortnite Updates:**
+Chai offers a completely custom fortnite update system, allowing you to choose between item shops, news updates, leaked cosmetics, aes updates, server stats, and more. All can be set to custom channels, allowing you to customize how you want to customize.
  
  
 ## Changeable Prefixes:
  
 Chai's prefix is **completely customizeable**. You can change it from the default "chai" prefix to anything that fits your server.
     
-- Default Prefixes: Chai, chai
-- chaiprefix <your_prefix:str>
- 
+- Default Prefixes: Chai, chai,
+
  
 ## Moderation Tools:
-Chai offers a complete moderation system, complete with bans, warnings, kicks, and much more. Moderation commands can be seen down below.
+Chai offers a complete moderation system, complete with bans, warnings, kicks, and much more. Moderation commands and actions can be seen in the Moderation section.
  
  
 ## Chai's Twitter:

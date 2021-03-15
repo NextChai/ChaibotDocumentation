@@ -58,17 +58,22 @@ chaigetstat @Chai#1000
  
 *PR check's someone lol*
  
+Prcheck yourself or another person.
+
 How to use:
 ```
-chaiprcheck [member:discord.Member=None]
+chaiprcheck Optional[subcommand] member[discord.Member=None]
 ```
- 
-Usage Example:
+
+Useage Example:
 ```
 chaiprcheck
- 
-chaiprcheck @Chai#1000
+chaiprcheck @chai
+
+chaiprcheck fast
+chaiprcheck fast @chai
 ```
+
  
 ### **setitemshop**
 **Set a custom channel for Item Shop Updates**. This is the same function as what's in the **chaisetup** command, but allows for channel customization (chaisetup does not allow for channel customization). This command is toggleable.
@@ -100,3 +105,28 @@ How to use:
 chaisetnews
 ```
 
+### **verify**
+Verify without having Fortnite Verification enabled through a reaction role. Your Dm's must be open in order for this command to work properly.
+
+How to use:
+```
+chaiverify
+```
+
+Use Example:
+```
+chaiverify
+```
+
+### **unverify***
+Don't want to be verified anymore? Get rid of it! 
+
+How to use:
+```
+chaiunverify
+```
+
+Use Example:
+```
+chaiunverify
+```

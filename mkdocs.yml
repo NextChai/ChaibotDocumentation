@@ -1,16 +1,17 @@
 site_name: Chaibot Docs
 nav:
   - Home: index.md
-  - How to Use: home.md
-  - Commands: main_commands.md
-  - API: api.md
+  - Commands: commands.md
   - Fortnite: fortnite.md
-  - Fun: fun.md
+  - Authentication: authentication.md
+  - Rocket League: rocketleague.md
+  - Setup: setup.md
   - Logs: logs.md
   - Moderation: mod.md
-  - Warnings: warnings.md
   - Music: music.md
-  - Reaction Roles: reaction_roles.md
+  - Warnings: warnings.md
+  - API: api.md
+  - TopGG: topgg.md
   - About Dev: about.md
 theme:
   name: gitbook
