@@ -1,4 +1,4 @@
-# Welcome to ChaiBot! 
+# Welcome to Chai! 
 
 
 ### **Epic Games Authentication**
