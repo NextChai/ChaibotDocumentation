@@ -1,5 +1,5 @@
 # Welcome to Chai! [![Discord Bots](https://top.gg/api/widget/status/728115804826239017.svg)](https://top.gg/bot/728115804826239017) [![Discord Bots](https://top.gg/api/widget/servers/728115804826239017.svg)](https://top.gg/bot/728115804826239017)
-
+[Invite link by clicking me](https://discord.com/oauth2/authorize?client_id=728115804826239017&scope=bot&permissions=1949560063)
 
 ### **Epic Games Authentication**
 **Have Chai claim your Save the World daily reward automatically!**
