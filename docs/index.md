@@ -1,4 +1,4 @@
-# Welcome to Chai! [![Discord Bots](https://top.gg/api/widget/status/728115804826239017.svg)](https://top.gg/bot/728115804826239017) [![Discord Bots](https://top.gg/api/widget/servers/728115804826239017.svg)](https://top.gg/bot/728115804826239017)
+# Welcome to Chai!
 
 ### **Authentication**
 **Chai can claim your Fortnite Save The Reward for you:**
